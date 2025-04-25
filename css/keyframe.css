@@ -1,2 +1,8 @@
-@keyframes car1 { 
+@keyframes car1 { from {bottom: 0px}
+to {top: 0px}
+}
+
+
+@keyframes car2 { from {bottom: 0px}
+to {top: 0px}
 }
